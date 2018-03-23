@@ -1,0 +1,94 @@
+/*  公共样式  */
+body,ul,input,h2,p,div,li,h3,h4{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 12px;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #5e5e5e;
+}
+s{
+	text-decoration: none;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+input,button{
+	margin: 0;
+	padding:  0;
+	outline: none;
+	border: none;
+}
+/*大家都在买色*/
+.f56b03{
+	color: #f56b03;
+}
+/*女装se*/
+.ee0736{
+	color: #ee0736;
+}
+/*男装色*/
+.dc2263{
+	color: #2263dc;
+}
+/*童装色*/
+.d5e8e3{
+	color: #5e8e3d;
+}
+.gary{
+	color: #686868;
+}
+i{font-style: normal;}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.over{
+	background: #333333;
+	color: #fff;
+}
+.out{
+	background: #FFFFFF;
+	color: #333;
+}
+.enter{
+       color: #ff0f3f;
+       border-bottom :2px solid #ff0f3f ;
+}
+.leave{
+      /*border-bottom: 2px solid #e7e7e7;*/
+      color: #333;
+	
+}
+.border{
+	border-bottom :2px solid #e7e7e7;
+}
+.sx{
+	background: #red;
+}
+.hov{
+	color: #fff;
+}
+.b{
+    border: 2px solid #ce2640;
+    position: relative;
+   }
+.a{
+    border: 1px solid #ddd;
+	position: relative;
+}
+.hdstyle{
+	background: #f5f3f0;
+	border-top: 2px solid #c80a28;
+}

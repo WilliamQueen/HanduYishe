@@ -1,0 +1,243 @@
+#hdregiser {
+  width: 1100px;
+  margin: 132px auto 0; }
+  #hdregiser .hdregiser_left {
+    margin-left: 30px; }
+    #hdregiser .hdregiser_left .hdreglt {
+      width: 360px;
+      height: 43px;
+      line-height: 43px;
+      font-size: 13px; }
+      #hdregiser .hdregiser_left .hdreglt #hdbtn {
+        width: 103px;
+        height: 29px;
+        border: none;
+        font-size: 16px;
+        color: #fff;
+        text-align: center;
+        margin: 8px 0 0 10px;
+        background: url("../images/imgzc/NEWS_login.png") no-repeat -347px -211px; }
+    #hdregiser .hdregiser_left .hdreglb {
+      width: 338px;
+      height: 27px;
+      text-align: center;
+      margin-top: 40px; }
+      #hdregiser .hdregiser_left .hdreglb #hdtxt {
+        width: 250px;
+        height: 25px;
+        float: left;
+        border: 1px solid #ddd; }
+      #hdregiser .hdregiser_left .hdreglb #hdbt {
+        width: 70px;
+        height: 27px;
+        border: none;
+        background: url("../images/imgzc/footer00.png") no-repeat 0 4px; }
+  #hdregiser .hdregiser_right {
+    width: 602px;
+    height: 514px;
+    border-left: 1px dashed #ddd;
+    margin: 0 50px; }
+    #hdregiser .hdregiser_right .hdregiformt {
+      width: 588px;
+      height: 120px;
+      border-bottom: 1px dashed #ddd;
+      margin-left: 50px; }
+      #hdregiser .hdregiser_right .hdregiformt i {
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        background: #cb1a3a;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 22px;
+        color: #fff; }
+      #hdregiser .hdregiser_right .hdregiformt a {
+        display: inline-block;
+        width: 135px;
+        height: 38px;
+        text-align: center;
+        line-height: 38px;
+        font-size: 14px;
+        margin-left: 10px; }
+      #hdregiser .hdregiser_right .hdregiformt .register_p {
+        color: #fff;
+        background: url("../images/imgzc/NEWS_login.png") no-repeat 0 -102px; }
+      #hdregiser .hdregiser_right .hdregiformt .register_e {
+        color: #000;
+        background: url("../images/imgzc/NEWS_login.png") no-repeat 0 -151px; }
+    #hdregiser .hdregiser_right .regiforphone {
+      width: 600px;
+      height: 329px;
+      margin: 33px 0 0 50px; }
+      #hdregiser .hdregiser_right .regiforphone .hdinformation {
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        background: #cb1a3a;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 22px;
+        color: #fff; }
+      #hdregiser .hdregiser_right .regiforphone .yanzhengtishi {
+        color: #7b7b7b;
+        margin-left: 115px; }
+        #hdregiser .hdregiser_right .regiforphone .yanzhengtishi s {
+          color: #c51f6f; }
+      #hdregiser .hdregiser_right .regiforphone p {
+        width: 558px;
+        height: 33px;
+        line-height: 30px;
+        margin-top: 10px; }
+        #hdregiser .hdregiser_right .regiforphone p .hdinput {
+          width: 210px;
+          height: 33px;
+          text-indent: 3px;
+          border: none;
+          background: url("../images/imgzc/shopping_login.png") no-repeat 0 -182px; }
+        #hdregiser .hdregiser_right .regiforphone p .myinformation {
+          display: inline-block;
+          width: 115px;
+          text-align: right; }
+        #hdregiser .hdregiser_right .regiforphone p .hdyzm {
+          width: 116px;
+          height: 26px;
+          border: none;
+          position: relative;
+          background: url("../images/imgzc/NEWS_login.png") no-repeat -256px -107px; }
+          #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm {
+            width: 250px;
+            height: 142px;
+            position: absolute;
+            right: 118px;
+            top: 45px;
+            text-align: center;
+            background: #000;
+            display: none; }
+            #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .apic {
+              display: inline-block;
+              width: 14px;
+              height: 14px;
+              position: absolute;
+              right: 13px;
+              top: 9px; }
+            #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .szm {
+              color: #fff;
+              width: 178px;
+              margin-top: 20px; }
+            #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .writein {
+              width: 214px; }
+              #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .writein #inport {
+                width: 117px;
+                height: 32px;
+                float: left;
+                margin-left: 11px; }
+              #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .writein .sure {
+                width: 65px;
+                height: 20px;
+                display: block;
+                position: absolute;
+                background: url("../images/imgzc/11.png");
+                right: 66px;
+                bottom: 20px; }
+            #hdregiser .hdregiser_right .regiforphone p .hdyzm .sendyzm .randyzm {
+              display: inline-block;
+              width: 86px;
+              height: 32px;
+              color: #fff;
+              font-weight: 600;
+              font-size: 24px;
+              letter-spacing: 5px;
+              text-align: center;
+              line-height: 31px;
+              float: left; }
+        #hdregiser .hdregiser_right .regiforphone p span {
+          display: inline-block;
+          width: 115px;
+          height: 33px;
+          text-align: right; }
+      #hdregiser .hdregiser_right .regiforphone .lastp {
+        font-size: 14px;
+        margin-left: 115px; }
+        #hdregiser .hdregiser_right .regiforphone .lastp s {
+          color: #c51f6f; }
+      #hdregiser .hdregiser_right .regiforphone .hdbtn {
+        margin-left: 120px;
+        width: 171px;
+        height: 44px;
+        border: none;
+        font-size: 16px;
+        color: #fff;
+        background: url("../images/imgzc/NEWS_login.png") no-repeat 0 -51px; }
+      #hdregiser .hdregiser_right .regiforphone .hdprom, #hdregiser .hdregiser_right .regiforphone .hdpwd, #hdregiser .hdregiser_right .regiforphone .qrmima {
+        width: 104px;
+        height: 28px;
+        color: #bf0000;
+        display: none;
+        float: right; }
+      #hdregiser .hdregiser_right .regiforphone .hdpwd {
+        width: 122px; }
+      #hdregiser .hdregiser_right .regiforphone .qrmima {
+        width: 109px; }
+      #hdregiser .hdregiser_right .regiforphone .hdpwdp {
+        width: 454px; }
+      #hdregiser .hdregiser_right .regiforphone .qrmimap {
+        width: 444px; }
+    #hdregiser .hdregiser_right .regiforemail {
+      width: 600px;
+      height: 329px;
+      margin: 33px 0 0 50px; }
+      #hdregiser .hdregiser_right .regiforemail .hdinformation {
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        background: #cb1a3a;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 22px;
+        color: #fff; }
+      #hdregiser .hdregiser_right .regiforemail .myinformation {
+        display: inline-block;
+        width: 115px;
+        text-align: right; }
+      #hdregiser .hdregiser_right .regiforemail p {
+        width: 580px;
+        height: 33px;
+        line-height: 30px; }
+        #hdregiser .hdregiser_right .regiforemail p span {
+          display: inline-block;
+          width: 115px;
+          height: 33px;
+          text-align: right; }
+        #hdregiser .hdregiser_right .regiforemail p .hdinput {
+          width: 210px;
+          height: 33px;
+          text-align: center;
+          border: none;
+          background: url("../images/imgzc/shopping_login.png") no-repeat 0 -182px; }
+        #hdregiser .hdregiser_right .regiforemail p #hdyzmemail {
+          width: 114px;
+          height: 28px;
+          float: left; }
+      #hdregiser .hdregiser_right .regiforemail .yanzhengtishi {
+        color: #7b7b7b;
+        margin-left: 115px;
+        line-height: 30px; }
+      #hdregiser .hdregiser_right .regiforemail .lastp {
+        font-size: 14px;
+        margin: 20px 0 0 115px; }
+        #hdregiser .hdregiser_right .regiforemail .lastp s {
+          color: #c51f6f; }
+      #hdregiser .hdregiser_right .regiforemail .hdbtn {
+        margin-left: 120px;
+        width: 171px;
+        height: 44px;
+        border: none;
+        font-size: 16px;
+        color: #fff;
+        background: url("../images/imgzc/NEWS_login.png") no-repeat 0 -51px; }
+      #hdregiser .hdregiser_right .regiforemail .yzmpic {
+        display: inline-block;
+        width: 86px;
+        height: 31px;
+        float: left;
+        margin-left: 3px; }
